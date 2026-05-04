@@ -285,7 +285,7 @@ Full pipeline terminal output showing all stages completing successfully:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/healthbridge-elt.git
+git clone https://github.com/Eb-raheeem/healthbridge-elt.git
 cd healthbridge-elt
 
 # Create virtual environment
